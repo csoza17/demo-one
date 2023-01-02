@@ -1,0 +1,7 @@
+just some text
+Name:     cannot open `Name' (No such file or directory)
+to:       cannot open `to' (No such file or directory)
+Write::   cannot open `Write:' (No such file or directory)
+test.txt: cannot open `test.txt' (No such file or directory)
+
+
